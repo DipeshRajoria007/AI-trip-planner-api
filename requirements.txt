@@ -1,0 +1,7 @@
+fastapi
+uvicorn==0.23.2
+openai
+pydantic==2.3.0
+pydantic_core==2.6.3
+requests~=2.31.0
+python-dotenv==0.20.0
